@@ -45,9 +45,9 @@ Przed uruchomieniem projektu należy mieć zainstalowane:
 
 Aby uruchomić test, należy wykonać komende:
 
-'''bash
+```text
 node test.js
-
+```
 
 
 
