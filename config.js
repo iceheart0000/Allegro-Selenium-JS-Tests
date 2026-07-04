@@ -1,10 +1,10 @@
 module.exports = {
   baseUrl: 'https://allegro.pl',
 
-  // Tutaj zmieniasz szukany produkt
+  // wybranie szukanego produktu
   searchPhrase: 'komputer',
 
-  // Tutaj zmieniasz, który produkt ma zostać wybrany.
+  // wybranie numeru produktu
   // 1 = pierwszy, 2 = drugi, 3 = trzeci itd.
   productIndex: 2,
 
